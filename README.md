@@ -4,6 +4,12 @@ A modern and responsive web application to search universities by country using 
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://your-demo-link-here.com
+
+---
+
 ## 🚀 Features
 
 - Search universities by country
