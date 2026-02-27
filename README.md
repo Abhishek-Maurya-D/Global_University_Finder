@@ -32,7 +32,7 @@ A modern and responsive web application to search universities by country using 
 
 ## 🔗 API Used
 
-https://universities.hipolabs.com/search?country=India
+http://universities.hipolabs.com/search?country=India
 
 ---
 
