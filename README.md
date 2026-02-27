@@ -6,7 +6,7 @@ A modern and responsive web application to search universities by country using 
 
 ## 🌐 Live Demo
 
-🔗 https://your-demo-link-here.com
+🔗 https://abhishek-maurya-d.github.io/Global_University_Finder/
 
 ---
 
